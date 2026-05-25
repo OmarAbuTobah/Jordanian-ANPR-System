@@ -36,7 +36,7 @@ Final plate number
 ## Installation
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/OmarAbuTobah/Jordanian-ANPR-System.git
 cd Jordanian-ANPR-System
 
 pip install -r requirements.txt
@@ -53,3 +53,17 @@ python app.py
 - Real-time camera recognition
 - Arabic character recognition
 - OCR optimization
+
+---
+
+## Screenshots
+
+### Web Interface
+
+![Web Interface](screenshots/web-interface.png)
+
+### Detection Result
+
+![Detection Result](screenshots/detection-result.png)
+
+
