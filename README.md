@@ -17,19 +17,7 @@ AI-based Automatic Number Plate Recognition (ANPR) system for Jordanian vehicle 
 
 ## Architecture
 
-Car Image
-   ↓
-YOLO #1 → detect plate
-   ↓
-Crop plate
-   ↓
-YOLO #2 → detect number region
-   ↓
-Preprocessing
-   ↓
-EasyOCR
-   ↓
-Final plate number
+![Web Interface](screenshots/Architecture.png)
 
 ---
 
