@@ -27,7 +27,6 @@ AI-based Automatic Number Plate Recognition (ANPR) system for Jordanian vehicle 
 ## 📌 Step 1 — Open Terminal
 
 You can use:
-- Mac Terminal
 - VS Code Terminal
 
 ---
